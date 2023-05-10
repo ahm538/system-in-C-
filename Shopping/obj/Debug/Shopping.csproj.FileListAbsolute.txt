@@ -1,0 +1,8 @@
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\bin\Debug\Shopping.exe.config
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\bin\Debug\Shopping.exe
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\bin\Debug\Shopping.pdb
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\obj\Debug\Shopping.csproj.AssemblyReference.cache
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\obj\Debug\Shopping.csproj.SuggestedBindingRedirects.cache
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\obj\Debug\Shopping.exe
+C:\Users\احمد عصام محمد\Desktop\New folder (2)\Shopping\Shopping\obj\Debug\Shopping.pdb
